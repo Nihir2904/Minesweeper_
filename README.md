@@ -8,6 +8,9 @@ python3 minesweeper.py
 ```
 (If you do not edit the parameters in the script, the script will automatically initialize it to a 10x10 board, with 10 bombs)
 
+![alt text](https://github.com/Nihir2904/Minesweeper_/blob/main/Screenshot%20(6).png)
+
+
 Note that the inputs must be that the number of bombs is less than the total number of spaces (n^2).
 
 For now, this script does not have a GUI and you can use terminal :D (If you want to make a GUI, feel free to make a pull request)
